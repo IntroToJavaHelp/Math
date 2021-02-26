@@ -1,0 +1,2 @@
+language = "java"
+run = "java src/com/introToJava/Main.java"
