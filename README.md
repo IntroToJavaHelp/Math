@@ -3,3 +3,4 @@ Includes examples of `Math.pow` and `Math.sqrt` from the `java.lang.Math` class,
 * The Quadratic Formula
 * The Pythagorean Formula
 * Monthly Payment Formula (not implemented for academic integrity reasons)
+[![Run on Repl.it](https://repl.it/badge/github/IntroToJavaHelp/Math)](https://repl.it/github/IntroToJavaHelp/Math)
